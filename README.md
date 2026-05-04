@@ -1,4 +1,4 @@
-# CertiChain Vault 🔐📜
+# BlockCertify 🔐📜
 
 **Blockchain-Based Certificate Issuing & Verification System**
 
