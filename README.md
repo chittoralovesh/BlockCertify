@@ -262,7 +262,7 @@ If the certificate file changes, the hash mismatch will expose tampering.
 
 # 👩‍💻 Author
 
-**Anshika Jain**
+**LOVESH CHITTORA**
 AI / Full-Stack Developer
 
 ---
